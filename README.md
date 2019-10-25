@@ -9,7 +9,7 @@ Assuming that the activity with higher probability(handle case) was chosen, we w
 ![Alt text](/py1.PNG?raw=true "Title")
 
 Then the truncated distribution of the transition is plotted through the following code.
-![Alt text](/py2.png?raw=true "Title")
+![Alt text](/py2.PNG?raw=true "Title")
 
 ![Alt text](/pic_3.png?raw=true "Title")
 
